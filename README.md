@@ -1,5 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# **This is an old repository for my personal github hosted portfolio site. The code is now managed in [this repository](https://github.com/trifiasco/trifiasco.github.io)**
 
+## Checkout my portfolio at - [trifiasco.github.io](https://trifiasco.github.io/)
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
 
 In the project directory, you can run:
